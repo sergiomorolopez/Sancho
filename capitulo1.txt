@@ -3,3 +3,5 @@ contenido1
 contenido2
 
 contenido3
+
+!!! CAPÍTULO DE COMPAÑERO MODIFICADO !!!
